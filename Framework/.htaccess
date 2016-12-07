@@ -1,0 +1,7 @@
+RewriteBase /
+
+RewriteEngine On
+
+RewriteRule ^$ /app/WebRoot/ [L]
+
+RewriteRule ^(.*)$ /app/WebRoot/$1 [L]

@@ -1,0 +1,308 @@
+*
+{
+		margin:0;
+		padding:0;
+}
+
+.head
+{
+	width:100%;
+	height:170px;
+	background:url(image/2.png);
+}
+.kakoyto
+{
+	font-size:2em;
+}
+
+.logo
+{
+	height: 150px;
+	width:77.5%;
+	margin-left:1.9%;
+	color:red;
+	font-size:60px;
+	line-height:35px;
+}
+.logo span 
+{
+	color:white;
+	font-size:35px;
+}
+.word
+{
+	margin:-75px 0 0 335px;
+}
+
+img
+{
+	height:95px;
+	width:115px;
+	margin:30px 0 0 220px;
+}
+
+.avtor
+{
+	height: 10%;
+	width:20%;
+	float:right;
+	color:white;
+	margin-top:-145px;
+	margin-right:15%;
+}
+
+.avtor a
+{
+	float:right;
+	margin-top:5px;
+	margin-right:60px;
+	font-size:1em;
+}
+
+li
+{
+		list-style:none;
+		
+}
+a
+{ 
+	text-decoration: none; 
+	color: white; 
+	font-size:1.4em;
+} 
+a:link 
+{ 
+	text-decoration: none; 
+	color: white; 
+} 
+a:Hover 
+{ 
+	text-decoration: none; 
+	color: red; 
+} 
+a:active 
+{ 
+	text-decoration: none; 
+	color: white; 
+} 
+a:unsited 
+{ 
+	text-decoration: none; 
+	color: white; 
+}
+	
+.oglavl
+{
+		position: relative;
+		top: -170px;
+		float:right;
+		margin-top:8px;
+}
+
+#bar
+{
+	left:-12em; top:1%; 
+	padding: .5em; 
+	margin: 0; 
+	position: fixed; 
+	height: 43%; 
+	width: 200px;
+	background-color:RGBA(255, 255, 255, 0.2);
+	border-radius: 0 10px 10px 0;
+	color:white;
+	text-align: left;
+	-webkit-transition: .2s ease-out;
+	-webkit-transition-delay: 0.5s;
+	-o-transition: .2s ease-out;
+	-o-transition-delay: 0.5s;
+	-moz-transition: .2s ease-out;
+	-moz-transition-delay: 0.5s;
+	transition: .2s ease-out;
+	transition-delay: 0.5s;
+}
+#bar:hover 
+{ 
+	left: 0; 
+}
+
+.oglav2
+{
+		text-align:left;
+		margin-top: 130px;
+		margin-top:-70px;
+}
+
+#bar2
+{
+	right:-12em; top:25%; 
+	padding: .5em; 
+	margin: 0; 
+	position: fixed; 
+	height: 50%; 
+	width: 200px;
+	background-color:RGBA(255, 255, 255, 0.2);
+	border-radius: 10px 0 0 10px;
+	color:white;
+	text-align: right;
+	-webkit-transition: .2s ease-out;
+	-webkit-transition-delay: 0.5s;
+	-o-transition: .2s ease-out;
+	-o-transition-delay: 0.5s;
+	-moz-transition: .2s ease-out;
+	-moz-transition-delay: 0.5s;
+	transition: .2s ease-out;
+	transition-delay: 0.5s;
+}
+#bar2:hover 
+{ 
+	right: 0; 
+}
+
+.oglav3
+{
+		position: relative;
+		float:right;
+		margin-top:8px;
+		margin-top:-30px;
+}
+
+#bar3
+{
+	left:-12em; top:50%; 
+	padding: .5em; 
+	margin: 0; 
+	position: fixed; 
+	height: 43%; 
+	width: 200px;
+	background-color:RGBA(255, 255, 255, 0.2);
+	border-radius: 0 10px 10px 0;
+	color:white;
+	text-align: left;
+	-webkit-transition: .2s ease-out;
+	-webkit-transition-delay: 0.5s;
+	-o-transition: .2s ease-out;
+	-o-transition-delay: 0.5s;
+	-moz-transition: .2s ease-out;
+	-moz-transition-delay: 0.5s;
+	transition: .2s ease-out;
+	transition-delay: 0.5s;
+}
+#bar3:hover 
+{ 
+	left: 0; 
+}
+
+
+.kontent
+{
+	margin:0 auto;
+	width:67%;
+	height:100%;
+	background-color:white;
+	text-indent:1%;
+}
+.kontent2
+{
+	margin:0 auto;
+	width:67%;
+	height:100%;
+	background-color:white;
+	text-indent:4%;
+	font-size:1.2em;
+	text-align:center;
+
+}
+
+.kontent p
+{
+	text-indent:4%;
+	font-size:1.5em;
+	text-align: justify;
+	width:97%;
+}
+.kontent2 span p
+{
+	text-align:left;
+	color:red;
+}
+
+
+.Clear
+{
+	clear: both;
+}
+.clr
+{
+		height:50px;
+		clear:both;
+}
+.footer
+{
+		background-color:black;
+		height:40px;
+		width:100%;
+		position:relative;
+		color:white;
+		font-size:1.5em;
+		background:url(http://i78.ltalk.ru/69/65/436569/17/13022217/star56.jpeg);
+}
+.footer span
+{
+	float:right;
+	margin-right:10px;
+	
+}
+p 
+{
+		margin-left:10px;
+}
+.b1
+{
+		margin-left:30px;
+		width:60px;
+		height:25px;
+}
+.b2
+{
+		width::200px;
+		height:40px;
+		font-size:1.3em;
+		font-style:italic;
+		margin-left:50px;
+		padding:7px 7px 7px 7px;
+}
+
+.regr
+{
+		text-align:left;
+		margin-left:15%;
+}
+.reg
+{
+		float:right;
+		margin-right:20%;
+}
+select
+{
+		margin-left:60px;
+}
+span select
+{
+		margin-left:30px;
+}
+textarea
+{
+	font-size:1.1em;
+	resize:none;
+}
+.a2
+{
+	margin: 20px 0 20px 0;
+	text-align:center;
+	font-size:1.3em;
+	color:red;
+}
+.flag
+{
+	margin-left:10px;
+}
